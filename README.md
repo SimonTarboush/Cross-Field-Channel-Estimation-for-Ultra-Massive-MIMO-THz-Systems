@@ -21,6 +21,7 @@ the paper: Simon Tarboush, Hadi Sarieddeen, Hui Chen, Mohamed Habib Loukil, Haki
 IEEE Transactions on Vehicular Technology.
 
 Contact person email: simon.w.tarboush@gmail.com
+
 You can also watch a Youtube video where we explained the work: https://www.youtube.com/watch?v=sxT4gYmqbaI&t=1s
 # Brief Description:
 
